@@ -7,11 +7,16 @@ import Skills from './Skills';
 import Projects from './Projects';
 import Extra from "./Extra";
 import Footer from "./Footer";
-import { useRef } from "react";
+import { useEffect, useRef } from "react";
 
 function App() {
   const controls = useAnimation();
   const constraintsRef = useRef(null);
+
+  useEffect(() => {
+    document.title = 'Pari'
+  }, [])
+
 
   return (
     <div className="overflow-x-hidden">
