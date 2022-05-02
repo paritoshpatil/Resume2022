@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Fugitive Detection System for Crowd Safety",
+        "content": "• A Python-based Machine Learning application used to detect fugitives from live CCTV streams using Image Processing and Facial Recognition • POC for the application was requested by the Commissioner of Police, Pune ",
+        "link": "https://github.com/paritoshpatil/fugitive-detection",
+        "linktext": "GitHub Repo"
+    },
+    {
+        "title": "VR Experience for Andaman & Nicobar Islands Heritage Sites (Smart India Hackathon)",
+        "content": "• A Smartphone-based VR application to give the experience of the heritage sites and museums of the Andaman and Nicobar Islands with complete 3D Modelling using SketchUp, Unity 3D, and sound design in FL Studio • Developed at the Smart India Hackathon 2019 • Among the top 10 projects at the college level with more than 150 submissions\t",
+        "link": "https://docs.google.com/presentation/d/e/2PACX-1vQ8psE8Ibm7BOoJy8YfVxexI636yw_T6NZ6KVAMgJwtso-eDsfMGB32Ll3_ZFM6DRW92BtKSlz4dVER/pub?start=false&loop=false&delayms=3000&slide=id.p",
+        "linktext": "Presentation Slides"
+    },
+    {
+        "title": "Pipeline Based Framework for Pair Trading",
+        "content": "• IEEE Paper for the design of a specialized framework used for analyzing Pair Trading technique • Presented at Inventive Research in Computing Applications (ICIRCA) and Published in IEEE Digital Library ",
+        "link": "https://docs.google.com/document/d/1fagC5aaZXEEpbnLKYbUMgSYNmFMemg9RX5pjJuNxZKM/edit",
+        "linktext": "IEEE Paper"
+    },
+    {
+        "title": "LeadHeart Musician Website",
+        "content": "• A website created in Angular that uses the Spotify API to fetch the top tracks from my Spotify Artist Profile • This is a personal website I created in order to promote my music • Written using Angular, SCSS, Spotify API and deployed on Vercel • GitHub Repo — https://github.com/paritoshpatil/leadheart\t",
+        "link": "https://leadheart.vercel.app/",
+        "linktext": "Website"
+    },
+    {
+        "title": "Automated Attendance System using Facial Recognition",
+        "content": "• Deep learning-based Facial Recognition system for marking student attendance automatically, written using Python, OpenCV, and Face_Recognition Library ",
+        "link": "https://github.com/paritoshpatil/attendance-system",
+        "linktext": "GitHub Repo"
+    },
+    {
+        "title": "Obstacle Avoiding Robot",
+        "content": "• A low-level autonomous robot that detects obstacles and avoids them built using Arduino UNO ",
+        "link": "null",
+        "linktext": "null"
+    },
+    {
+        "title": "To-Do",
+        "content": "• A minimalistic to-do app created using React, TailwindCSS, and Firebase • Created in order to practice React hooks, rapid CSS styling using Tailwind, and NoSQL Database manipulation using Firebase • Implemented CRUD using Firebase Firestore • Hosted on Firebase • GitHub Repo — https://github.com/paritoshpatil/todo-firebase ",
+        "link": "http://todo-firebase-f30bc.web.app",
+        "linktext": "Website"
+    },
+    {
+        "title": "PowerHouse",
+        "content": "• A static website created in HTML and Bootstrap 4 created to practice basic CSS styling • GitHub Repo — https://github.com/paritoshpatil/PowerHouse ",
+        "link": "http://paritoshpatil.github.io/PowerHouse",
+        "linktext": "Website"
+    },
+    {
+        "title": "Dev Portfolio / Resume Website",
+        "content": "• This website that you're currently viewing, built in React using TailwindCSS and Framer Motion for animations • Data is consumed from JSON files • All the UI components are designed completely from scratch",
+        "link": "null",
+        "linktext": "null"
+    }
+]

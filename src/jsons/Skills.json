@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Languages",
+    "value": "C++, Java, Python, JavaScript, TypeScript, HTML, CSS, SQL, NoSQL, C#"
+  },
+  {
+    "title": "Frameworks",
+    "value": "OpenCV, Numpy, Firebase, Node.js, React, Angular, TailwindCSS, Bootstrap, SQLite, SQL Server, Radix-UI, Stitches for CSS-in-JS"
+  },
+  {
+    "title": "Miscellaneous",
+    "value": "Powershell Cmdlet Scripting, Linux, VR & AR in Unity, Arduino, PowerBI, Figma, Framer, Adobe XD (prototyping and design) "
+  }
+]

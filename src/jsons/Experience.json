@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Veritas Technologies LLC",
+    "designation": "Associate Software Engineer, Pune",
+    "duration": "Jul 2021 - Current",
+    "content": "• Building a utility to convert JSON data from MS-Teams into Rich HTML formatted emails in Java, HTML, and CSS • Updated and added validations to a legacy Web UI written in EXT JS"
+  },
+  {
+    "title": "Veritas Technologies LLC ",
+    "designation": "Software Development Intern, Pune (WFH)",
+    "duration": "Jan 2021 - Jul 2021",
+    "content": "• Built multiple Commandlets as a command-line alternative to Veritas' Backup and Recovery solutions in Windows Powershell• Created templates for interactive performance reports in PowerBI"
+  },
+  {
+    "title": "TomTom India Pvt. Ltd.",
+    "designation": "Software Development Intern, Pune (WFH)",
+    "duration": "Aug 2020 - Dec 2020\t",
+    "content": "• Built various UI Elements of the TomTom Web App used by users to provide mapping data in Angular• Worked with TomTom Map SDK to create various filters and accessibility options for the aforementioned TomTom web-app"
+  },
+  {
+    "title": "Google Developer Student Clubs VIT, Pune",
+    "designation": "Core Team Member ",
+    "duration": "Jan 2019 - Sep 2020",
+    "content": "• Core team member of a technical student club powered by Google Developers aimed at helping other students learn upcoming technologies and building usable software for local businesses • Trained a class of 60 in basic Machine Learning algorithms in Python, Numpy, Pandas, MatPlotLib, and Tensorflow @ MLFest 2019 • Trained a class of 50 in a crash course to programming in Python @ DSC Python Workshop 2019"
+  },
+  {
+    "title": "CPAG Graphology Experts, Nashik",
+    "designation": "Network Security Intern",
+    "duration": "Apr 2017 - Jul 2017",
+    "content": "• Interned with a team of 5 students and worked on analyzing and finding possible vulnerabilities in Fortune 500 websites using FTP probing and DoS scripts"
+  }
+]
