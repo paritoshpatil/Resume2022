@@ -47,9 +47,9 @@ function App() {
           </motion.div>
         </div>
         <ul className="list-inside list-none mt-8 font-inter text-center leading-relaxed text-gray-700">
-          <li>Associate Software Engineer at Veritas LLC 👨‍🔬</li>
+          <li>Software Engineer at Veritas LLC 👨‍🔬</li>
           <li>Bachelor in Computer Science from VIT, Pune 🎓</li>
-          <li>Front-end developer with 2 years of experience 💪</li>
+          <li>Front-end developer with 3 years of experience 💪</li>
         </ul>
 
         <div className="mt-16 flex flex-row items-center justify-center space-x-6">
@@ -81,7 +81,6 @@ function App() {
         </div>
 
         <div className="absolute bottom-8 flex flex-row justify-center items-center">
-          <p className="text-gray-400 font-light mr-1">scroll to see more</p>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="h-6 w-6 text-gray-400"
