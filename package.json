@@ -50,5 +50,8 @@
     "autoprefixer": "^10.4.4",
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.24"
-  }
+  },
+  "engines" : { 
+    "npm" : ">=18.0.0",
+    "node" : ">=18.0.0"
 }
